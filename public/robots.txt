@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hugo-yjt4.onrender.com/sitemap.xml

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web estatica para IAW</title>
+    <link>https://hugo-yjt4.onrender.com/</link>
+    <description>Recent content on Web estatica para IAW</description>
+    <image>
+      <url>https://hugo-yjt4.onrender.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://hugo-yjt4.onrender.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hugo-yjt4.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web estática dedicada a Debian</title>
+      <link>https://hugo-yjt4.onrender.com/</link>
+      <pubDate>Fri, 30 Sep 2022 10:16:30 +0200</pubDate>
+      
+      <guid>https://hugo-yjt4.onrender.com/</guid>
+      <description>Debian Imagen de Debian ¿Qué es Debian? Debian es un sistema operativo libre, es decir, que su código fuente está disponible para todo el mundo y que cualquiera puede modificarlo y redistribuirlo. Debian es un sistema operativo que se basa en el núcleo Linux, y que está compuesto por un conjunto de paquetes de software libre, que se distribuyen en forma de paquetes binarios para arquitecturas de procesadores Intel x86, AMD64, ARM, PowerPC, SPARC, MIPS, Alpha, HPPA, IA64, S390, S390x, y también para arquitecturas de procesadores de 32 bits y 64 bits.</description>
+    </item>
+    
+  </channel>
+</rss>
