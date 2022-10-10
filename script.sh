@@ -15,7 +15,9 @@ cp -R public/* ../hugo_render/public
 
 #Nos movemos hasta donde hemos copiado los ficheros y subiremos los cambios al github
 
-cd ../hugo_render/public
+cd ../hugo_render/
+git add .
+cd public
 git add .
 git commit -am "Cambios"
 git push
