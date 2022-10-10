@@ -125,6 +125,9 @@ menu:
     - identifier : windows
       name: Windows
       url: /windows/
+    - identifier : examen
+      name: examen
+      url: /examen
       weight: 20
     - identifier: web_externa
       name: Moodle IES Gonzalo Nazareno
