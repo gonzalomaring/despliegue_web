@@ -6,7 +6,6 @@ hugo -D
 #Subimos los cambios a nuestro repositorio en el cual están los ficheros hugo
 
 git add .
-git add content/*
 git commit -am "Cambios"
 git push
 
@@ -17,6 +16,6 @@ cp -R public/* ../hugo_render/public
 #Nos movemos hasta donde hemos copiado los ficheros y subiremos los cambios al github
 
 cd ../hugo_render/public
-git add *
+git add .
 git commit -am "Cambios"
 git push
